@@ -1,0 +1,51 @@
+
+body{
+    font-size: 20px, sans-serif ;
+  
+}
+
+.navbar{
+    background-color: #1E90FF;
+  
+}
+
+.quem-somos{
+    background-color:#87CEFA ;
+  
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.quem__somos{
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+
+.somos_um{
+    margin-top: 20px;
+}
+
+.parceiros{
+background-color: #4169E1;
+}
+
+.colunas{
+    margin-top: 20px;
+}
+
+#serviços{
+    margin-top: 50px;
+    
+}
+
+.colunas-serviços{
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
+
+.rodape{
+    font-weight: bold;
+}
